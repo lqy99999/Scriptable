@@ -4,7 +4,7 @@
   syncs reminders to the Calendar app and links it back to reminders
   (only for list "Class")
 
-### Steps
+#### Steps
 Follow the steps in https://iphonewired.com/common-problems/336307/
 
 #### All functions can be found at the following link:
