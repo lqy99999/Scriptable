@@ -1,4 +1,4 @@
-# Scriptable 
+# IOS Scriptable 
 #### Just some scripts for own use:
 - syncReminderAndCalendar.js  
   syncs reminders to the Calendar app and links it back to reminders
